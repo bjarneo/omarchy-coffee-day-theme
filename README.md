@@ -15,7 +15,7 @@ omarchy theme install https://github.com/bjarneo/omarchy-coffee-theme
 
 ## Backgrounds
 
-Five wallpapers at 6016x3384 and one coffee-shop video at 3840x2160.
+Six wallpapers at 6016x3384 and one coffee-shop video at 3840x2160.
 
 ## Credits
 
