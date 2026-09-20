@@ -1,21 +1,23 @@
-# Coffee
+# Coffee Day
 
-A dark, coffee-toned theme for [Omarchy Quattro](https://github.com/basecamp/omarchy).
+A light, coffee-toned theme for [Omarchy Quattro](https://github.com/basecamp/omarchy).
 
-Espresso backgrounds, oat-milk text, and caramel accents. The palette keeps the
-shade ramp of Evergreen.
+Steamed-milk backgrounds, espresso text, and caramel accents. A latte to the
+Coffee theme's espresso.
 
 ![Preview](preview.png)
 
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/bjarneo/omarchy-coffee-theme
+omarchy theme install https://github.com/bjarneo/omarchy-coffee-day-theme
 ```
+
+Prefer the dark original? See [Coffee](https://github.com/bjarneo/omarchy-coffee-theme).
 
 ## Backgrounds
 
-Six wallpapers at 6016x3384 and one coffee-shop video at 3840x2160.
+Seven wallpapers up to 6878x4780 and one coffee-shop video at 3840x2160.
 
 ## Credits
 
