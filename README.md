@@ -17,7 +17,7 @@ Prefer the dark original? See [Coffee](https://github.com/bjarneo/omarchy-coffee
 
 ## Backgrounds
 
-Seven wallpapers up to 6878x4780 and one coffee-shop video at 3840x2160.
+Eight wallpapers up to 6878x4780 and one coffee-shop video at 3840x2160.
 
 ## Credits
 
